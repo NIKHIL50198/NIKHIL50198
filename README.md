@@ -15,7 +15,7 @@
 
 💞️ I’m looking to collaborate on a full-time Data Analyst job.
 
-📫 How to reach me: nikhildhasmana50198@gmail.com
+📫 How to reach me: nikhildhasmana52@gmail.com
 
 ⚡ Fun fact: Data analysts are often called "Data Detectives" because they uncover insights by investigating patterns and trends in data.
 
@@ -24,7 +24,7 @@
 ## 🤝 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/nikhil-dhasmana-3b2b90137)
-- [HackerRank](https://www.hackerrank.com/your-hackerrank-username) <!-- Replace with your actual HackerRank username/link -->
+- [HackerRank](https://www.hackerrank.com/nikhildhasmana52) <!-- Replace with your actual HackerRank username/link -->
 
 ---
 
