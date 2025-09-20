@@ -7,6 +7,7 @@
 <p align="center"><b>Turning raw data into insights that drive better business decisions.</b></p>
 
 ---
+👀 I’m interested in Data Analytics. 
 
 🔭 I’m currently learning Python
 
