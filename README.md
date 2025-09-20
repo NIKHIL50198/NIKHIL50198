@@ -1,6 +1,6 @@
 <!-- Profile Introduction Section -->
 <p align="center">
-  <img src="https://github.com/NIKHIL50198/NIKHIL50198/blob/008ec28b67ac2ce69cce69b2b571459a7b159c5d/Gemini_Generated_Image_m5vxsam5vxsam5vx.png" width="120" alt="Nikhil Dhasmana - Data Analyst"/>
+  <img src="https://github.com/NIKHIL50198/NIKHIL50198/blob/008ec28b67ac2ce69cce69b2b571459a7b159c5d/Gemini_Generated_Image_m5vxsam5vxsam5vx.png" width="150" alt="Nikhil Dhasmana - Data Analyst"/>
 </p>
 
 <h1 align="center">Hi, I'm Nikhil Dhasmana 👋</h1>
